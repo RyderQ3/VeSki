@@ -1,0 +1,116 @@
+body {
+
+
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background: url(../Sitev2/Img/Background.jpg) center no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+.Title {
+    font-size: 45px;
+    color: rgb(20, 59, 75)
+}
+
+.Description {
+    font-size: 20px;
+    color: rgb(20, 59, 75)
+}
+
+.Card {
+
+    border: 0px #fff solid;
+    width: 400px;
+    margin: 30px auto;
+    background-color: #fff;
+    /*box-shadow: 5px 5px 10px rgb(29, 29, 29);*/
+    border-radius: 10px;
+    padding: 20px;
+    background: url(../Sitev2/Img/Background2.jpg) center no-repeat;
+    background-size: cover;
+}
+
+.card-photo {
+
+    border: 3px #fff solid;
+    display: block;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    margin-top: 2%;
+    border-radius: 50%;
+    
+}
+
+.card-title {
+
+    color: white;
+    height: 35px;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.card-text {
+    
+    color: white;
+    height: 85px;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+
+.sign-in {
+
+    color: white;
+    margin-top: 15px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.Login {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    width: 250px;
+    height: 50px;
+    margin: 10px auto;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+
+}
+
+.Password {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    width: 250px;
+    height: 50px;
+    margin: 10px auto;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+
+}
+
+.signin {
+
+    width: 80px;
+    height: 40px;
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 10px auto;
+    border-radius: 10px;
+    background-color: none;
+    font-size: small;
+
+}
